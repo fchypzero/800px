@@ -552,8 +552,8 @@ max-height:100px;
 overflow:hidden;
 }
 .sidebar .bicolumn ul  li{
-margin-right:14px;
-width:55px;
+margin-right: 10px; 
+width: 58px;
 float:left;
 border-bottom:1px dashed #AAA;
 }
