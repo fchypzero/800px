@@ -11,11 +11,14 @@
 
 ###博客标题：
 修改header.php第28行：
+
     <div><a href="<?php $this->options->siteUrl(); ?>">Cho's <span class="blue">Blog</span></a></div>
+
 其中，被span标签包围的文字将显示为红色。
 
 ###底栏头像：
 修改sidebar.php第59行：
+
     <img src="http://m1.img.libdd.com/farm5/8/F6F5425306A6C88472BA398473043608_180_220.PNG" alt="avator" />
 
 ###底栏友情链接：
@@ -23,7 +26,9 @@ sidebar.php第47行至50行。
 
 ###评论头像的大小：
 var\Widget\Comments\Archieve.php第396行：
+
     'avatarSize' => 32,
+
 修改为58。
 
 style.css调用的图片都存在x.libdd.com服务器上，这是点点网的静态资源托管，非常稳定，速度相当可观，还是一个不产生cookie的domain，所以我已经尽量将静态资源都放在上面了，包括图片、几个javascript文件。修改模板里的图片时记得把style.css里的图片路径修改回来。
