@@ -41,5 +41,7 @@ ENJOY。当然，欢迎反馈问题。
 ##更新记录
 
 2012.11.5 修复了底栏日期在IE家族下不正常的显示。对于在此时间之前下载的同学，可以用
+
     .sidebar .bicolumn ul li { margin-right: 10px; width: 58px; float: left; border-bottom: 1px dashed #AAA; }
+
 替换style.css第554行起的对应的内容。
