@@ -56,7 +56,7 @@
 <?php endif; ?>
 <div class="sidebar-col3">
 			<div class="hdavatar">
-				<img src="http://m1.img.libdd.com/farm5/8/F6F5425306A6C88472BA398473043608_180_220.PNG" alt="avator" />
+				<img src="http://x.libdd.com/farm1/a571d2/421f94d1/logo.png" alt="avator" />
              </div>
 </div>
 <div class="clear"></div> 
