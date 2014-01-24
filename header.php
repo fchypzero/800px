@@ -8,12 +8,12 @@
 <title><?php $this->archiveTitle('.', '', ' - '); ?><?php $this->options->title() ?></title>
 <?php endif; ?>
 <!--[if lt IE 9]>
-<script src="http://x.libdd.com/farm1/1484d5/69431f1e/93D6C.js"></script>
+<script src="http://x.papaapp.com/farm1/1484d5/69431f1e/93D6C.js"></script>
 <![endif]-->
 <link rel="stylesheet" type="text/css" media="all" href="<?php $this->options->themeUrl('style.css'); ?>" />
 <link href='http://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
 <script type="text/javascript" src="http://lib.sinaapp.com/js/jquery/1.2.6/jquery.min.js"></script>
-<script src="http://x.libdd.com/farm1/a571d2/fba453c2/base.js"></script>
+<script src="http://x.papaapp.com/farm1/a571d2/fba453c2/base.js"></script>
 <?php $this->header("generator=&template=&"); ?>
 </head>
 <body>
