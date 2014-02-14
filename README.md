@@ -3,7 +3,7 @@
 ##模板介绍
 这是一个800像素宽的单栏响应式HTML5的TYPECHO主题。
 
-![模板预览图](http://page-attach.stor.sinaapp.com/1283320454.jpg "模板预览图") 
+![模板预览图](https://ddydeg.bay.livefilestore.com/y2pICoIHKcAGy6eYx9d4cy70hzeQ0ZUBmdrao_VG5yxb9JKTZRGySTeczO7b3kcizUJ6QT41k8SWCsQeo6tXEeyiqHs0suHD2UHlI6JIk1j_nM/8.png "模板预览图") 
 
 ##微调
 
